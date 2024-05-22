@@ -1,5 +1,9 @@
 # pandas-challenge
-Using Pandas, the purpose of this project is to analyze a sizeable data set in order to assist the (virtual) local school board and (virtual) mayor in making strategic decisions regarding future school budgets and priorities.  Factors involved in the analysis include the following (below list is not exhaustive):
+Using Pandas, the purpose of this project is to analyze a sizeable data set in order to assist the (virtual) local school board and (virtual) mayor in making strategic decisions regarding future school budgets and priorities.  
+
+Factors involved in the analysis include the following (below list is not exhaustive):
+
+        
         - Student scores in reading and math and the overall passing rates of both
         - Types of schools
         - Budgets by school
