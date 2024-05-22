@@ -4,7 +4,7 @@ Using Pandas, the purpose of this project is to analyze a sizeable data set in o
 Factors involved in the analysis include the following (below list is not exhaustive):
 
         
-        - Student scores in reading and math and the overall passing rates of both
+        - Student scores in reading and math, including the overall passing rates of both subjects
         - Types of schools
         - Budgets by school
         - School size
